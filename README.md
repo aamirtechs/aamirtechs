@@ -82,7 +82,11 @@ Through **[AamirTechs](https://aamirtechs.com/)** I do the same work for other b
 
 <div align="center">
 
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamirtechs&show_icons=true&title_color=0D1F3C&icon_color=C9A227&text_color=333333&bg_color=FFFFFF&border_color=DEE3EC)
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamirtechs&show_icons=true&include_all_commits=true&count_private=true&title_color=0D1F3C&icon_color=C9A227&text_color=333333&bg_color=FFFFFF&border_color=DEE3EC)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=aamirtechs&theme=vue&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aamirtechs&layout=compact&title_color=0D1F3C&text_color=333333&bg_color=FFFFFF&border_color=DEE3EC)
 
 </div>
 
